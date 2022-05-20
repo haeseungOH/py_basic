@@ -57,3 +57,4 @@ print('실제값 들: ', y_data[:5].flatten())
 
 
 
+
